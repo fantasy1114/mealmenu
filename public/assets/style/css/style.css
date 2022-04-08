@@ -1,0 +1,8 @@
+/* label.error{
+    position: absolute;
+    margin-top: 40px;
+    color: red;
+}
+form input.error, form input.error:focus{
+    border-color: #ea5455;
+} */
